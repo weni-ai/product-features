@@ -1,4 +1,4 @@
-# How to send/share with our product team suggestions for Weni
+# Share your suggestions for Weni product
 
 To do this, you need to have an account created on github.com
 
