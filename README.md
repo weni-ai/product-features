@@ -14,7 +14,7 @@ You need to follow the best practices to open a suggestion:
 In this way, your suggestions don't lose and will be able to prioritize at some point for one of our product teams, and will be linked in our roadmap.
 
 If you have any questions, feel free to contact our product managers:
-- [@afraniocavalcante](https://github.com/afraniocavalcante)
+- [@barbosajackson](https://github.com/barbosajackson)
 - [@gleysonborges](https://github.com/gleysonborges)
 - [@jadedemettino](https://github.com/jadedemettino)
 - [@matmsa27](https://github.com/matmsa27)
